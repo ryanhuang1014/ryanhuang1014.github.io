@@ -1,0 +1,80 @@
+<footer class="site-footer" style="padding: 2rem 0; text-align: center;">
+    <div class="container text-gray-600 dark:text-gray-400">
+        <p class="powered-by">
+
+            © 2026 Chengyuan Huang. This work is licensed under CC BY NC ND 4.0
+
+            <br>
+            <span style="font-size: 1.5rem; display: inline-block; margin-top: 0.5rem;">
+                <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener"
+                    class="text-gray-600 dark:text-gray-400 hover:text-primary-500 transition-colors">
+                    <i class="fab fa-creative-commons"></i>
+                    <i class="fab fa-creative-commons-by"></i>
+                    <i class="fab fa-creative-commons-nc"></i>
+                    <i class="fab fa-creative-commons-nd"></i>
+                </a>
+            </span>
+
+        </p>
+    </div>
+</footer>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+    /* 2. 强制全站使用 Lato 字体 */
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    a,
+    span,
+    li,
+    div {
+        font-family: 'Lato', sans-serif !important;
+    }
+
+    /* 3. 正文设置：字号加大 (为了好看) */
+    .article-style,
+    p {
+        font-size: 1.1rem !important;
+        line-height: 1.7 !important;
+        color: #374151;
+    }
+
+    /* 【新增修复】专门把页脚字号改小！覆盖上面的全局设置 */
+    .site-footer p,
+    .site-footer .powered-by {
+        font-size: 0.85rem !important;
+        /* 这里控制页脚大小，0.85rem 约等于 13-14px */
+        line-height: 1.5 !important;
+        margin-bottom: 0 !important;
+    }
+
+    /* 夜间模式适配 */
+    .dark .article-style,
+    .dark p {
+        color: #d1d5db !important;
+    }
+
+    /* 4. 强制夜间模式下的加粗文字为白色 */
+    html.dark b,
+    html.dark strong,
+    .dark b,
+    .dark strong {
+        color: #ffffff !important;
+        font-weight: 700 !important;
+    }
+
+    /* 5. 特别针对论文列表中的作者名 */
+    .dark .pub-list-item b,
+    .dark .article-metadata b {
+        color: #ffffff !important;
+    }
+</style>

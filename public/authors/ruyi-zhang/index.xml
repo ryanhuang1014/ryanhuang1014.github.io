@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruyi Zhang | </title>
+    <link>http://localhost:1313/authors/ruyi-zhang/</link>
+      <atom:link href="http://localhost:1313/authors/ruyi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruyi Zhang</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>MC-RDMA: Improving Replication Performance of RDMA-based Distributed Systems with Reliable Multicast Support</title>
+      <link>http://localhost:1313/publications/mcrdma/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/mcrdma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
