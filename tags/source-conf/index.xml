@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Source-Conf | </title>
-    <link>https://example.com/tags/source-conf/</link>
-      <atom:link href="https://example.com/tags/source-conf/index.xml" rel="self" type="application/rss+xml" />
+    <title>Source-Conf | Chengyuan Huang （黄程远）</title>
+    <link>https://ryanhuang1014.github.io/tags/source-conf/</link>
+      <atom:link href="https://ryanhuang1014.github.io/tags/source-conf/index.xml" rel="self" type="application/rss+xml" />
     <description>Source-Conf</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_fb558a5ed99f547e.png</url>
+      <url>https://ryanhuang1014.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Source-Conf</title>
-      <link>https://example.com/tags/source-conf/</link>
+      <link>https://ryanhuang1014.github.io/tags/source-conf/</link>
     </image>
     
     <item>
       <title>Astral: A Datacenter Infrastructure for Large Language Model Training at Scale</title>
-      <link>https://example.com/publications/astral/</link>
+      <link>https://ryanhuang1014.github.io/publications/astral/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/astral/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/astral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PortFC: Designing High-performance Deadlock-free BCube Networks</title>
-      <link>https://example.com/publications/portfc/</link>
+      <link>https://ryanhuang1014.github.io/publications/portfc/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/portfc/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/portfc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>μMon: Empowering Microsecond-level Network Monitoring with Wavelets</title>
-      <link>https://example.com/publications/umon/</link>
+      <link>https://ryanhuang1014.github.io/publications/umon/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/umon/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/umon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MC-RDMA: Improving Replication Performance of RDMA-based Distributed Systems with Reliable Multicast Support</title>
-      <link>https://example.com/publications/mcrdma/</link>
+      <link>https://ryanhuang1014.github.io/publications/mcrdma/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/mcrdma/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/mcrdma/</guid>
       <description></description>
     </item>
     

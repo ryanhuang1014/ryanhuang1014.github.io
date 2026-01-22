@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | </title>
-    <link>https://example.com/publications/</link>
-      <atom:link href="https://example.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Chengyuan Huang （黄程远）</title>
+    <link>https://ryanhuang1014.github.io/publications/</link>
+      <atom:link href="https://ryanhuang1014.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_fb558a5ed99f547e.png</url>
+      <url>https://ryanhuang1014.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
-      <link>https://example.com/publications/</link>
+      <link>https://ryanhuang1014.github.io/publications/</link>
     </image>
     
     <item>
       <title>UDMP: Unified Delay-Driven Multipath Protocol for AI Clusters</title>
-      <link>https://example.com/publications/udmp/</link>
+      <link>https://ryanhuang1014.github.io/publications/udmp/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/udmp/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/udmp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Astral: A Datacenter Infrastructure for Large Language Model Training at Scale</title>
-      <link>https://example.com/publications/astral/</link>
+      <link>https://ryanhuang1014.github.io/publications/astral/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/astral/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/astral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Troubleshooting Programmable Data Planes via Real-Time Table Information Recording</title>
-      <link>https://example.com/publications/troubleshooting/</link>
+      <link>https://ryanhuang1014.github.io/publications/troubleshooting/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/troubleshooting/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/troubleshooting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PortFC: Designing High-performance Deadlock-free BCube Networks</title>
-      <link>https://example.com/publications/portfc/</link>
+      <link>https://ryanhuang1014.github.io/publications/portfc/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/portfc/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/portfc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reunion: Receiver-driven network load balancing mechanism in AI training clusters</title>
-      <link>https://example.com/publications/reunion/</link>
+      <link>https://ryanhuang1014.github.io/publications/reunion/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/reunion/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/reunion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimizing Buffer Utilization for Lossless Inter-DC Links</title>
-      <link>https://example.com/publications/minimizing-buffer/</link>
+      <link>https://ryanhuang1014.github.io/publications/minimizing-buffer/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/minimizing-buffer/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/minimizing-buffer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MpScope: Enabling multi-pipeline monitoring inside a switch</title>
-      <link>https://example.com/publications/mpscope/</link>
+      <link>https://ryanhuang1014.github.io/publications/mpscope/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/mpscope/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/mpscope/</guid>
       <description></description>
     </item>
     
     <item>
       <title>μMon: Empowering Microsecond-level Network Monitoring with Wavelets</title>
-      <link>https://example.com/publications/umon/</link>
+      <link>https://ryanhuang1014.github.io/publications/umon/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/umon/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/umon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MC-RDMA: Improving Replication Performance of RDMA-based Distributed Systems with Reliable Multicast Support</title>
-      <link>https://example.com/publications/mcrdma/</link>
+      <link>https://ryanhuang1014.github.io/publications/mcrdma/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/mcrdma/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/mcrdma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SLIT: Achieving Fast Bandwidth Isolation Across Virtual Machines</title>
-      <link>https://example.com/publications/slit/</link>
+      <link>https://ryanhuang1014.github.io/publications/slit/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/slit/</guid>
+      <guid>https://ryanhuang1014.github.io/publications/slit/</guid>
       <description></description>
     </item>
     
