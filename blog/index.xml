@@ -1167,7 +1167,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-126395478&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-875924316&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1185,7 +1185,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-126395478&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-875924316&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
